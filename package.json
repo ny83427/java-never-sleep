@@ -1,0 +1,25 @@
+{
+  "name": "java-never-sleep",
+  "version": "1.0.0",
+  "description": "Best Java Tutorial for Beginners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ny83427/java-never-sleep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ny83427/java-never-sleep/issues"
+  },
+  "homepage": "https://www.oldyoungboys.club/java-never-sleep",
+  "dependencies": {
+    "reveal-ga": "^0.1.0",
+    "reveal.js": "^3.7.0",
+    "reveal.js-chalkboard": "^1.0.0",
+    "reveal.js-menu": "^1.2.0"
+  }
+}
