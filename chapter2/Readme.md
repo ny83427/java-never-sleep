@@ -10,14 +10,17 @@
 
 ## Variable, Identifier, Data Type
 ```java
+// Primitive types
 byte tom = 11;
 short nate = 36;
 int gordon = 61;
-long fib100 = ;
+long fib70 = 190392490709135L;
 float pie = 3.1415926;
 double price = 19.99;
 char dolloar = '$';
 boolean happy = true;
+// Object types
+List<Integer> list = new ArrayList<>(10);
 ```
 
 ---
@@ -33,7 +36,7 @@ boolean happy = true;
 ## Keywords Part I
 <table>
 <tr><td>abstract</td><td>continue</td><td>for</td><td>new</td><td>switch</td></tr>
-<tr><td>assert***</td><td>default</td><td><font color=red>goto*</font></td><td>package</td><td>synchronized</td></tr>
+<tr><td>assert</td><td>default</td><td><font color=red>goto</font></td><td>package</td><td>synchronized</td></tr>
 <tr><td>boolean</td><td>do</td><td>if</td><td>private</td><td>this</td></tr>
 <tr><td>break</td><td>double</td><td>implements</td><td>protected</td><td>throw</td></tr>
 <tr><td>byte</td><td>else</td><td>import</td><td>public</td><td>throws</td></tr>
@@ -43,11 +46,11 @@ boolean happy = true;
 
 ## Keywords Part II
 <table>
-<tr><td>case</td><td><strong>enum****</strong></td><td>instanceof</td><td>return</td><td>transient</td></tr>
+<tr><td>case</td><td><strong>enum</strong></td><td>instanceof</td><td>return</td><td>transient</td></tr>
 <tr><td>catch</td><td>extends</td><td>int</td><td>short</td><td>try</td></tr>
 <tr><td>char</td><td>final</td><td>interface</td><td>static</td><td>void</td></tr>
-<tr><td>class</td><td>finally</td><td>long</td><td>strictfp**</td><td>volatile</td></tr>
-<tr><td><font color=red>const*</font></td><td>float</td><td>native</td><td>super</td><td>while</td></tr>
+<tr><td>class</td><td>finally</td><td>long</td><td>strictfp</td><td>volatile</td></tr>
+<tr><td><font color=red>const</font></td><td>float</td><td>native</td><td>super</td><td>while</td></tr>
 </table>
 
 ---
