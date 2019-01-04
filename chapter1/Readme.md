@@ -15,7 +15,7 @@
 ---
 
 ### Using Java
-![](java.png)
+![](java.png)<!-- .element width="80%" height="65%" -->
 
 ---
 
@@ -33,7 +33,7 @@
 ---
 
 ### Even Games
-![](game.png)
+![](game.png)<!-- .element width="80%" height="65%" -->
 
 ---
 
@@ -128,6 +128,28 @@ java HelloWorld
 * If you have installed multiple versions of Java, for example, Java 8 and 11, how do you know
 which [version](https://en.wikipedia.org/wiki/Java_class_file) you are using to compile the source code?
 * Run HelloWorld under Ubuntu without compiling and with compiling
+
+---
+
+## Assignment
+* Install JDK8 and `HelloWorld`
+* Setup development environment: JDK11/Git/IDEA Community/everything/notepad++/vscode
+* Using notepad++/vscode/IDEA to write `HelloWorld` and run it
+* Download [Demos and Samples](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and Play
+
+---
+
+## Challenges
+* Setup development environment repeatedly is boring, can you [automate](https://gist.github.com/ny83427/4ca8801fb340bb0555e63155a7050ee9) it?
+* Install JDK8/IDEA in a different system and `HelloWorld`
+* Write a Fibonacci number calclator method inside `HelloWorld.java`
+
+---
+
+## Challenges
+* F20 = 6765, how about F100 and how long your method will take to finish?
+* Can you resolve Fibonacci number without recursion?
+* What will happen for F10000?
 
 ---
 
