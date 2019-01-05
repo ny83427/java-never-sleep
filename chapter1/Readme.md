@@ -14,8 +14,8 @@
 
 ---
 
-### Using Java
-![](java.png)<!-- .element width="80%" height="65%" -->
+### In Java
+![](java.png)
 
 ---
 
@@ -33,7 +33,7 @@
 ---
 
 ### Even Games
-![](game.png)<!-- .element width="80%" height="65%" -->
+![](game.png)
 
 ---
 
@@ -45,19 +45,28 @@
 
 ---
 
-### Begin With End In Mind
-- Talk is cheap, show me the code
-- Your success is based on customers' success
-- Discover and resolve real-world problems
+### Show Me The Code!
+![](show-me-the-code.jpg)
 
 ---
 
-## Greetings & Encouragement
-- Just Do It: Don't overrate short term and underrate middle/long term
-- Not everyone can be great programmer, but everyone can be programmer and make a difference
+### Customers' Success, Your Success
+![](Make-a-Difference.jpg)
+
+---
+
+## Encouragement
+- Don't expect too much in short term: Overrated
+- You can expect much in middle/long term: Underrated
+- Just Do It! Day Day Up!
 - Join a community, encourage and help each other
 - A true story of mine
 
+---
+
+### Encouragement
+Not everyone can be a great programmer, but everyone can be a programmer, and make a difference
+![](Linus_Torvalds.jpeg)
 ---
 
 ### Brief History of Programming Languages
@@ -70,6 +79,11 @@
 ### Brief History of Java
 [James Gosling](https://en.wikipedia.org/wiki/James_Gosling)  
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/James_Gosling_2008.jpg/477px-James_Gosling_2008.jpg)
+
+---
+
+### Guess: Who Is Youngest?
+![](youngest.png)
 
 ---
 
@@ -117,9 +131,11 @@ public class HelloWorld {
 :: Compile source code
 javac HelloWorld.java
 
-:: Execute byte code
+:: Execute byte code under Windows/Ubuntu/MacOS
 java HelloWorld
 ```
+* [OnceAnywhere](https://github.com/ny83427/java-tutorial-vagrant/blob/master/sample/OnceAnywhere.java): A Real life example
+* Run Anywhere, not Wrong Any where
 
 ---
 
@@ -131,8 +147,8 @@ which [version](https://en.wikipedia.org/wiki/Java_class_file) you are using to 
 
 ---
 
-## Assignment
-* Install JDK8 and `HelloWorld`
+## Assignments
+* Install JDK8 and write your first `HelloWorld`
 * Setup development environment: JDK11/Git/IDEA Community/everything/notepad++/vscode
 * Using notepad++/vscode/IDEA to write `HelloWorld` and run it
 * Download [Demos and Samples](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and Play
@@ -142,7 +158,7 @@ which [version](https://en.wikipedia.org/wiki/Java_class_file) you are using to 
 ## Challenges
 * Setup development environment repeatedly is boring, can you [automate](https://gist.github.com/ny83427/4ca8801fb340bb0555e63155a7050ee9) it?
 * Install JDK8/IDEA in a different system and `HelloWorld`
-* Write a Fibonacci number calclator method inside `HelloWorld.java`
+* Write a Fibonacci number calclator `Fibonacci.java`
 
 ---
 
@@ -150,7 +166,9 @@ which [version](https://en.wikipedia.org/wiki/Java_class_file) you are using to 
 * F20 = 6765, how about F100 and how long your method will take to finish?
 * Can you resolve Fibonacci number without recursion?
 * What will happen for F10000?
+* Check details in [GitHub](https://github.com/ny83427/java-tutorial/blob/master/chapter1/assignments.md)
 
 ---
 
-# END
+## [The End: Happy Coding!](https://t.co/KUO8i66Rzm)
+![](happy-coding.jpg)
