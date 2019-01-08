@@ -157,10 +157,12 @@ Just For Fun: [Stackoverflow](https://stackoverflow.com/questions/184618/what-is
 ---
 
 ## Language Basics Materials
+* [Codecademy - Learn Java](https://www.codecademy.com/courses/learn-java)
+* [Head First Java, 2nd Edition](https://amzn.to/2CWGMWT)
 * [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
 * [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
 * [LeetCode: Easy Problems](https://leetcode.com/problemset/algorithms/?difficulty=Easy)
-* A good friend, a mentor
+* Friend & Mentor
 
 ---
 
