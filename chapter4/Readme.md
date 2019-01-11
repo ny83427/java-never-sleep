@@ -38,6 +38,13 @@
 
 ---
 
+## No Silver Bullet
+* Comparison: Importance of administration to a company
+* Problem to resolve became more complex than before
+* Scenarioes not fit: Compiler/Algorithm/Critical Performance
+
+---
+
 ## Class and Instance
 Abstract and concrete  
 Person tom = new Person()
