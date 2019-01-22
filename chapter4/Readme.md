@@ -72,5 +72,13 @@ JVM Memory Model
 
 ---
 
+## Assignment: Simple Soccer Game
+* Specification: [Click Here](https://github.com/ny83427/java-tutorial/blob/master/chapter4/assignments.md)
+* Purpose: Class Modeling
+* You are encouraged to try `Challenge` part
+* You are challenged to try `Champion` part
+
+---
+
 ## The End: Happy Coding!
 ![](../chapter2/happy-coding.jpg)<!-- .element width="80%" height="65%" -->
