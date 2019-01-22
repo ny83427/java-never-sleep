@@ -8,3 +8,6 @@ xcopy node_modules\* ..\blog\public\tutorial\node_modules\ /d /y /e
 xcopy image\* ..\blog\public\tutorial\image\ /d /y /e
 copy favicon.ico ..\blog\public\tutorial\favicon.ico
 copy index.html ..\blog\public\tutorial\index.html
+
+cd ..\blog
+hexo d
